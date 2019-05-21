@@ -4,6 +4,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.units import inch
 import StringIO
+##eee
+/*ddd*/
 
 
 def create_cert(filename, name, course_name, date, logo_loc):
